@@ -4,6 +4,23 @@
     <string name="profession">Actor</string>
     <string name="getIntouch">Get in touch</string>
 
+
+    <string name="about_john">
+        "John Christopher Depp II (born June 9, 1963) is an American actor, singer, producer, and musician.
+
+        He has been nominated for ten Golden Globe Awards, winning one for Best Actor for his performance of the title role in Sweeney Todd: The Demon Barber of Fleet Street (2008), and has been nominated for three Academy Awards for Best Actor, among other accolades.
+
+        He is regarded as one of the world's biggest film stars."
+    </string>
+
+    <string name="skills">* Actor "\n"* Producer "\n"* Musician "\n"* Singer "\n" </string>
+
+    <string name="work">
+           * Chat App "\n"* Calories App "\n"* Diary App "\n"* Cat Bio App "\n"*  Teaching Programming
+    </string>
+
+    <string name="contact">"You know where to find me" </string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
