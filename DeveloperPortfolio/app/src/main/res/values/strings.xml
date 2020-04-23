@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Developer Portfolio</string>
+    <string name="app_name">Portfolio</string>
     <string name="dev_name">Johny Depp</string>
     <string name="profession">Actor</string>
     <string name="getIntouch">Get in touch</string>
